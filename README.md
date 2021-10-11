@@ -17,5 +17,4 @@
 
 ## 👨🏻‍💻关于作者
 
-[Suroy]: https://suroy.cn
-
+[Suroy]: https://suroy.cn From 理工院
